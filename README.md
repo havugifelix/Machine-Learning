@@ -1,1 +1,1 @@
-# Machine-Learning: This repository contains some machine learning algorithms implementation. The first one is K-nearest Neigbhours and others will be added later
+# Machine-Learning: This repository contains some machine learning algorithms implementation. For now there is K-NN and Support vector machines all implemnted using python. You can download german dataset in this repository and play with classffier.
